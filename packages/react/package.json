@@ -1,5 +1,5 @@
 {
-  "name": "wagmi",
+  "name": "plg-wagmi",
   "description": "React Hooks for Ethereum",
   "license": "MIT",
   "version": "1.3.4",
@@ -121,7 +121,7 @@
     "@tanstack/query-sync-storage-persister": "^4.27.1",
     "@tanstack/react-query": "^4.28.0",
     "@tanstack/react-query-persist-client": "^4.28.0",
-    "@wagmi/core": "workspace:*",
+    "@plg-wagmi/core": "workspace:*",
     "abitype": "0.8.7",
     "use-sync-external-store": "^1.2.0"
   },
